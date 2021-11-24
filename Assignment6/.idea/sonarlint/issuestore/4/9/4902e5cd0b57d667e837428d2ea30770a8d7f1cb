@@ -1,0 +1,10 @@
+
+P
+java:S1119";Refactor the code to remove this label and the need for it.(אֵֿ)
+V
+java:S1119";Refactor the code to remove this label and the need for it.(¬יקארÿÿÿÿ
+4
+java:S1065"Remove this unused label.(¬יקארÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(¸סÙüÿÿÿÿ
+J
+java:S1066-"/Merge this if statement with the enclosing one.(¬«§ןûÿÿÿÿ

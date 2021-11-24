@@ -1,0 +1,6 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Å­ËÝúÿÿÿÿ8ÁƒŒŠÔ/
+X	java:S125"<This block of commented-out lines of code should be removed.(Îà’­8ÁƒŒŠÔ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÑŠ¬¾üÿÿÿÿ8ÇƒŒŠÔ/
+A
+java:S1128"%Remove this unused import 'java.net'.(ÐŽ‡8ñÁŒŠÔ/
