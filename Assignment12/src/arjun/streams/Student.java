@@ -45,5 +45,17 @@ public class Student {
         return perTillDate;
     }
 
+    @Override
+    public String toString() {
+        return "Student[" +
+                "id=" + id +
+                ", name='" + name +
+                ", age=" + age +
+                ", gender='" + gender +
+                ", engDepartment='" + engDepartment +
+                ", year_of_enrollment=" + yearOfEnrollment +
+                ", perTillDate=" + perTillDate +
+                '}';
+    }
 
 }
